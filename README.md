@@ -1,11 +1,11 @@
-Parse by number v0.0.1
+Parse by number v0.0.8
 
-Для нормальной работы необходима актуальная версия ruby(не ниже 2.0.0)
+Для нормальной работы необходима актуальная версия ruby
 
 А таже гемы: 
+
 nokogiri
+
 ruby-progressbar
 
-Для установки гемов используй комманду 
-
-gem install nokogiri ruby-progressbar из папки bin(в ней должен быть файл gem.exe) с установленным ruby
+spreadsheet
