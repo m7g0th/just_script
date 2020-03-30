@@ -9,3 +9,5 @@ nokogiri
 ruby-progressbar
 
 spreadsheet
+
+open-uri
